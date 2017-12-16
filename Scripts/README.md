@@ -5,6 +5,7 @@
 ## Run Badlands
 
 * input.xml : Badlands run file
+* RunBadlands.ipynb : Run Badlands
 
 ## Post-processing
 
