@@ -1,6 +1,6 @@
 ## Model setup
 
-* GRL_draft.ipynb: generate sea-level data, thermal subsidence profile, dynamic topography data)
+* ModelSetup.ipynb: generate sea-level data, thermal subsidence profile, dynamic topography data)
 
 ## Run Badlands
 
