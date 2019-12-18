@@ -1,4 +1,4 @@
-# GRL draft
+# Drainage and sedimentary responses to dynamic topography, https://doi.org/10.1029/2019GL084400 
 
 ## Overview
 
