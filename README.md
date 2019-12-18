@@ -1,7 +1,7 @@
 # GRL input
 
 
-Supporting information that contains all the input and forcing conditions files required to reproduce the experiments from the manusript: [**Drainage and sedimentary responses to dynamic topography**] (https://doi.org/10.1029/2019GL084400).
+Supporting information that contains all the input and forcing conditions files required to reproduce the experiments from the manusript: **Drainage and sedimentary responses to dynamic topography** (https://doi.org/10.1029/2019GL084400).
 
 
 <div align="center">
