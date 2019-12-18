@@ -1,16 +1,12 @@
-## Model setup
+## Create_DynTopoWave
 
-* ModelSetup.ipynb: generate sea-level data, thermal subsidence profile, dynamic topography data
+* Create_DynTopoWave.ipynb: This ipython notebook creates the tectonic input files of a migrating wave of dynamic topography. 
 
-## Run Badlands
-
-* input.xml: Badlands run file
-* RunBadlands.ipynb: Run Badlands
 
 ## Post-processing
 
-* Paraview: visualise flow discharge, cumulative erosion and deposition
+* Stratal_Architecture.ipynb: This ipython notebook produce stratal stacking patterns, Wheeler diagrams and vertical stacking patterns at any extracted cross-sections
 
-* strataAnalyse.ipynb: produce stratal stacking patterns, Wheeler diagrams a vertical cross-section
+* stratal_Architecture.py: This python file contains all the functions that are used in the Stratal_Architecture.ipynb
 
-* depocenter.ipynb: generate the migration of depocenter along a vertical cross-section
+
